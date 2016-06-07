@@ -8,8 +8,9 @@ Root directory and ignore list are written in googledrivesync.py.
 SYNC_PATH = "googledrive"
 
 IGNORELIST_PATH = "ignore.txt"
+
 IGNORELIST_ENCODING = "utf-8"
 
 
 #Running
-python3 googledrivesync.py
+python3 sync.py
