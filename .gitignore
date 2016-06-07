@@ -1,0 +1,6 @@
+*.swp
+*~
+__pycache__
+googledrive
+ignore.txt
+token.bin
